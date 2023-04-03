@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 # 💫About Me :
-🐱‍👤 I'm currently working on breaking into the tech community.
-🖥 In the process of learning a hoopla of varied programming languages and frameworks. 
+<ul>
+  <li>🐱‍👤 I'm currently working on breaking into the tech community.</li>
+  <li>🖥 In the process of learning a hoopla of varied programming languages and frameworks.</li> 
+</ul>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rubenhernandezarce) 
