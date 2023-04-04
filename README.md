@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫About Me :
+ 💫About Me :
 <ul>
   <li>🐱‍👤 I'm currently working on breaking into the tech community.</li>
   <li>🖥 In the process of learning a hoopla of varied programming languages and frameworks.</li> 
